@@ -33,7 +33,7 @@ header{
     color: rgba(255, 0, 0, 0.664) !important;
 }
 .navbar-brand{
-    color: #fff !important;
+    color: black !important;
 }
 
 .navbar-light .navbar-brand,
@@ -47,7 +47,7 @@ header{
 }
 #main{
     width: 100%;
-    height: 1000px;
+    height: 3500px;
 }
 .video{
     position: absolute;
@@ -89,5 +89,37 @@ header{
     color: #fff;
     font-size: 1.2rem;
 }
+.headerText{
+    color: #000000;
+}
+.headerText h2{
+    font-size: 2.5rem;
+    font-weight: 400;
+    margin-bottom: 20px;
+} 
+.size{
+    width: 100%;
+    height: 300px;
+}
+#padding{
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.ownerBox{
+    width: 100px;
+    height: 100px;
+}
+.ownerBox img{
+    border-radius: 50%;
+    width: 100%;
+    height: 100%;
+}
+.text{
+    width: 200px;
+    height: 200px;
+}
+
+
+
 
 
